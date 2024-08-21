@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 94
+  controlID: 99
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -99,7 +99,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 93
+  controlID: 98
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -441,7 +441,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Assets/Scene1
+    - Assets/Assets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -449,16 +449,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Assets/Scene1
+  - Assets/Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Reis\Documents\FogtownGame\FogtownGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 279}
-    m_SelectedIDs: e8750000
-    m_LastClickedID: 30184
-    m_ExpandedIDs: 00000000a6750000a8750000aa750000ac750000ae750000b0750000b2750000b4750000b6750000b875000000ca9a3b
+    scrollPos: {x: 0, y: 219}
+    m_SelectedIDs: b4750000
+    m_LastClickedID: 30132
+    m_ExpandedIDs: 00000000a2750000a4750000a6750000a8750000aa750000ac750000ae750000b0750000b2750000b475000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -486,7 +486,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a6750000a8750000aa750000ac750000ae750000b0750000b2750000b4750000b6750000b8750000
+    m_ExpandedIDs: 00000000a2750000a4750000a6750000a8750000aa750000ac750000ae750000b0750000b2750000b4750000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -628,7 +628,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 4af7ffff90f7ffffdcf7ffff5af8ffff1cfbffff
+      m_ExpandedIDs: 1cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1008,9 +1008,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.8113334, y: -0.6777595, z: -0.027354792}
+    m_Target: {x: -1.4381105, y: -0.47040138, z: -0.027354792}
     speed: 2
-    m_Value: {x: -1.8113334, y: -0.6777595, z: -0.027354792}
+    m_Value: {x: -1.4381105, y: -0.47040138, z: -0.027354792}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
