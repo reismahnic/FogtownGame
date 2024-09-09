@@ -150,6 +150,17 @@ MonoBehaviour:
     axisThreshold: 0.2
     buttonType: 0
     hasUpgraded: 1
+  - label: Skip Video
+    ID: 2
+    inputName: SkipVideo
+    enabledOnStart: 1
+    gameState: 0
+    gameStateFlags: 1
+    actionListAsset: {fileID: 0}
+    inputType: 0
+    axisThreshold: 0.2
+    buttonType: 0
+    hasUpgraded: 1
   freeAimTouchSpeed: 0.01
   dragWalkThreshold: 5
   dragRunThreshold: 20

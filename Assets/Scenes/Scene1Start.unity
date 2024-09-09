@@ -4507,14 +4507,14 @@ MonoBehaviour:
     x: 14
     y: 197
     width: 300
-    height: 252
+    height: 272
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 7405855158796348676}
   movieClipType: 2
   movieMaterialMethod: 0
-  skipKey: 
-  canSkip: 0
+  skipKey: SkipVideo
+  canSkip: 1
   videoPlayer: {fileID: 1180268608}
   videoPlayerParameterID: -1
   videoPlayerConstantID: 0
